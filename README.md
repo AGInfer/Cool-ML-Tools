@@ -1,6 +1,8 @@
 # Cool-ML-Tools
 Your comprehensive go-to hub for exploring, discovering, and comparing the best machine learning tools available in the industry
 
+![Credits Playground AI](https://github.com/AGInfer/Cool-ML-Tools/blob/60ca6ab68587e6a5dc08a214f4c6ea3b6c3d0284/retrofuturism-style--cat-looking-at-charts-649070511.png)
+
 ## Contributing
 
 * Please open a [PR](https://guides.github.com/activities/forking/) for list of Cool ML tools to be added
